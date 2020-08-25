@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [blokz/profile](https://profile.blokz.io) && [self-help.dev](https://self-help.dev) both here on GitHub.
+- 🔭 I’m currently working on [personal.community](https://personal.community) && [self-help.dev](https://self-help.dev) both here on GitHub.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on self-help.dev
 - 🤔 I’m looking for help with life hacks.
