@@ -1,16 +1,9 @@
-### Hi there 👋
-
-
-**sn0n/sn0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello there 👋
 
 - 🔭 I’m currently working on [personal.community](https://personal.community) && [self-help.dev](https://self-help.dev) both here on GitHub.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ~~JavaScript~~ dart & Flutter
 - 👯 I’m looking to collaborate on self-help.dev
-- 🤔 I’m looking for help with life hacks.
-- 💬 Ask me about anything
+- 🤔 I’m always looking for new life hacks.
 - 📫 How to reach me: see [blokz.io/contact](https://blokz.io/contact/)
-- 😄 Pronouns: Thor
 - ⚡ Fun fact: I'm old, love magic the gathering and most pixel styled RPGs... Especially Final Fantasy 1.
 
