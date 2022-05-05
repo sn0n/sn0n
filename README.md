@@ -7,3 +7,4 @@ Hello there 👋
 - 📫 How to reach me: see [https://sn0n.github.io/contact/](https://sn0n.github.io/contact/)
 - ⚡ Fun fact: I'm old, love magic the gathering and most pixel styled RPGs... Especially Final Fantasy 1.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sn0n&theme=onedark)](https://github.com/sn0n/github-profile-trophy)
